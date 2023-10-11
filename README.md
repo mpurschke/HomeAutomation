@@ -1,2 +1,2 @@
 # HomeAutomation
-My various utilities to keep track of my solar panels, and enerrgy (electricity, gas) usage
+My various utilities to keep track of my solar panels, and energy (electricity, gas) usage
